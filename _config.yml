@@ -1,8 +1,9 @@
 title: <p align="center"> Vernica Ahuja </p>
-logo: /assets/img/D-13710 copy (2).jpg
-description: <p align="center">
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
   <a href="https://www.linkedin.com/in/vernica-ahuja-b00370b8/">LinkedIn</a> |
   <a href="https://github.com/vernica0703">GitHub</a>
-show_downloads: true
-google_analytics:
+
 theme: jekyll-theme-minimal
